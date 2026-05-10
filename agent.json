@@ -1,0 +1,14 @@
+{
+  "name": "AdaRHD-S-Optimizer",
+  "role": "黎曼流形双层优化专家",
+  "description": "基于单循环自适应算法，专门优化带有 Stiefel 和 SPD 流形约束的复杂双层问题。",
+  "target_problems": [
+    "矩阵相似度最大化 (Simple Problem)",
+    "深度 SPD 网络超表示学习 (Robust Analysis)"
+  ],
+  "algorithms": {
+    "core": "AdaRHD-S (Single-Loop Adaptive)",
+    "complexity": "O(1/ε) Iteration Complexity",
+    "manifolds": ["Stiefel (St)", "Symmetric Positive Definite (SPD)"]
+  }
+}
