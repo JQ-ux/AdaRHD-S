@@ -1,0 +1,107 @@
+Using seeds: [7270]
+n: 500, d: 50
+Run 1/1 with seed 7270
+7270
+cpu
+CG tol reached, break at iter 2.
+Epoch 0: loss upper: -22.4698, hypergrad norm: 2.2215e+01
+CG tol reached, break at iter 1.
+Epoch 1: loss upper: -24.7763, hypergrad norm: 3.0054e+01, step time: 8.8766
+CG tol reached, break at iter 2.
+Epoch 2: loss upper: -25.1279, hypergrad norm: 1.4486e+01, step time: 9.1095
+CG tol reached, break at iter 1.
+Epoch 3: loss upper: -25.3877, hypergrad norm: 6.9287e+00, step time: 10.1759
+CG tol reached, break at iter 1.
+Epoch 4: loss upper: -25.5520, hypergrad norm: 3.6024e+00, step time: 10.4275
+CG tol reached, break at iter 1.
+Epoch 5: loss upper: -25.6525, hypergrad norm: 1.9988e+00, step time: 10.3657
+CG tol reached, break at iter 1.
+Epoch 6: loss upper: -25.7159, hypergrad norm: 1.1730e+00, step time: 10.2953
+CG tol reached, break at iter 0.
+Epoch 7: loss upper: -25.7574, hypergrad norm: 7.2365e-01, step time: 9.6709
+CG tol reached, break at iter 0.
+Epoch 8: loss upper: -25.7856, hypergrad norm: 4.6678e-01, step time: 9.4006
+CG tol reached, break at iter 0.
+Epoch 9: loss upper: -25.8054, hypergrad norm: 3.1312e-01, step time: 9.5460
+CG tol reached, break at iter 0.
+Epoch 10: loss upper: -25.8197, hypergrad norm: 2.1738e-01, step time: 9.4882
+CG tol reached, break at iter 0.
+Epoch 11: loss upper: -25.8303, hypergrad norm: 1.5549e-01, step time: 9.8641
+CG tol reached, break at iter 0.
+Epoch 12: loss upper: -25.8383, hypergrad norm: 1.1414e-01, step time: 9.5911
+CG tol reached, break at iter 0.
+Epoch 13: loss upper: -25.8444, hypergrad norm: 8.5713e-02, step time: 9.4505
+CG tol reached, break at iter 0.
+Epoch 14: loss upper: -25.8492, hypergrad norm: 6.5652e-02, step time: 9.5711
+CG tol reached, break at iter 0.
+Epoch 15: loss upper: -25.8531, hypergrad norm: 5.1164e-02, step time: 10.1738
+CG tol reached, break at iter 0.
+Epoch 16: loss upper: -25.8562, hypergrad norm: 4.0488e-02, step time: 9.9440
+CG tol reached, break at iter 0.
+Epoch 17: loss upper: -25.8587, hypergrad norm: 3.2473e-02, step time: 9.8857
+CG tol reached, break at iter 0.
+Epoch 18: loss upper: -25.8607, hypergrad norm: 2.6359e-02, step time: 9.4279
+CG tol reached, break at iter 0.
+Epoch 19: loss upper: -25.8625, hypergrad norm: 2.1626e-02, step time: 9.5454
+CG tol reached, break at iter 0.
+Epoch 20: loss upper: -25.8639, hypergrad norm: 1.7913e-02, step time: 9.4993
+CG tol reached, break at iter 0.
+Epoch 21: loss upper: -25.8651, hypergrad norm: 1.4965e-02, step time: 10.1719
+CG tol reached, break at iter 0.
+Epoch 22: loss upper: -25.8661, hypergrad norm: 1.2599e-02, step time: 9.7780
+CG tol reached, break at iter 0.
+Epoch 23: loss upper: -25.8670, hypergrad norm: 1.0684e-02, step time: 9.4679
+CG tol reached, break at iter 0.
+Epoch 24: loss upper: -25.8677, hypergrad norm: 9.1178e-03, step time: 9.7913
+CG tol reached, break at iter 0.
+Epoch 25: loss upper: -25.8684, hypergrad norm: 7.8280e-03, step time: 9.6418
+CG tol reached, break at iter 0.
+Epoch 26: loss upper: -25.8690, hypergrad norm: 6.7570e-03, step time: 9.8764
+CG tol reached, break at iter 0.
+Epoch 27: loss upper: -25.8695, hypergrad norm: 5.8629e-03, step time: 9.5805
+CG tol reached, break at iter 0.
+Epoch 28: loss upper: -25.8699, hypergrad norm: 5.1106e-03, step time: 9.4967
+CG tol reached, break at iter 0.
+Epoch 29: loss upper: -25.8703, hypergrad norm: 4.4747e-03, step time: 9.4454
+CG tol reached, break at iter 0.
+Epoch 30: loss upper: -25.8706, hypergrad norm: 3.9345e-03, step time: 10.3094
+CG tol reached, break at iter 0.
+Epoch 31: loss upper: -25.8709, hypergrad norm: 3.4725e-03, step time: 9.7120
+CG tol reached, break at iter 0.
+Epoch 32: loss upper: -25.8712, hypergrad norm: 3.0762e-03, step time: 9.6722
+CG tol reached, break at iter 0.
+Epoch 33: loss upper: -25.8714, hypergrad norm: 2.7342e-03, step time: 9.5435
+CG tol reached, break at iter 0.
+Epoch 34: loss upper: -25.8716, hypergrad norm: 2.4384e-03, step time: 9.6475
+CG tol reached, break at iter 0.
+Epoch 35: loss upper: -25.8718, hypergrad norm: 2.1813e-03, step time: 9.7966
+CG tol reached, break at iter 0.
+Epoch 36: loss upper: -25.8720, hypergrad norm: 1.9569e-03, step time: 9.5914
+CG tol reached, break at iter 0.
+Epoch 37: loss upper: -25.8722, hypergrad norm: 1.7606e-03, step time: 9.7521
+CG tol reached, break at iter 0.
+Epoch 38: loss upper: -25.8723, hypergrad norm: 1.5879e-03, step time: 9.7685
+CG tol reached, break at iter 0.
+Epoch 39: loss upper: -25.8724, hypergrad norm: 1.4360e-03, step time: 9.6718
+CG tol reached, break at iter 0.
+Epoch 40: loss upper: -25.8726, hypergrad norm: 1.3017e-03, step time: 9.6365
+CG tol reached, break at iter 0.
+Epoch 41: loss upper: -25.8726, hypergrad norm: 1.1826e-03, step time: 10.2331
+CG tol reached, break at iter 0.
+Epoch 42: loss upper: -25.8728, hypergrad norm: 1.0768e-03, step time: 9.7567
+CG tol reached, break at iter 0.
+Epoch 43: loss upper: -25.8728, hypergrad norm: 9.8237e-04, step time: 9.6604
+CG tol reached, break at iter 0.
+Epoch 44: loss upper: -25.8729, hypergrad norm: 8.9803e-04, step time: 9.8700
+CG tol reached, break at iter 0.
+Epoch 45: loss upper: -25.8730, hypergrad norm: 8.2256e-04, step time: 9.6475
+CG tol reached, break at iter 0.
+Epoch 46: loss upper: -25.8731, hypergrad norm: 7.5484e-04, step time: 9.4593
+CG tol reached, break at iter 0.
+Epoch 47: loss upper: -25.8731, hypergrad norm: 6.9388e-04, step time: 9.5173
+CG tol reached, break at iter 0.
+Epoch 48: loss upper: -25.8732, hypergrad norm: 6.3894e-04, step time: 9.7258
+CG tol reached, break at iter 0.
+Epoch 49: loss upper: -25.8732, hypergrad norm: 5.8917e-04, step time: 9.9353
+CG tol reached, break at iter 0.
+Epoch 50: loss upper: -25.8733, hypergrad norm: 5.4415e-04, step time: 9.5788

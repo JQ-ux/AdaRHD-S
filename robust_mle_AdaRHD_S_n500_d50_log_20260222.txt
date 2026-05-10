@@ -1,0 +1,16 @@
+Using seeds: [7270, 860, 5390, 5191, 5734]
+n: 500, d: 50
+Run 1/5 with seed 7270
+Starting Run 1 with Single-loop AdaRHD-S...
+Epoch 0: loss_u=-2774.2349, hg_norm=1.9084e+03, time=0.8731
+Epoch 50: loss_u=-356.8289, hg_norm=8.8175e+01, time=0.9621
+Epoch 100: loss_u=-237.7261, hg_norm=5.3160e+01, time=0.4423
+Epoch 150: loss_u=-186.9756, hg_norm=3.9153e+01, time=0.6131
+Epoch 200: loss_u=-158.0412, hg_norm=3.1424e+01, time=0.5480
+Epoch 250: loss_u=-139.1153, hg_norm=2.6472e+01, time=0.6307
+Epoch 300: loss_u=-125.6869, hg_norm=2.3007e+01, time=0.5999
+Epoch 350: loss_u=-115.6271, hg_norm=2.0436e+01, time=0.5879
+Epoch 400: loss_u=-107.7915, hg_norm=1.8449e+01, time=0.5912
+Epoch 450: loss_u=-101.5078, hg_norm=1.6863e+01, time=0.5902
+Epoch 500: loss_u=-96.3513, hg_norm=1.5566e+01, time=0.5927
+Epoch 550: loss_u=-92.0403, hg_norm=1.4485e+01, time=0.6513
