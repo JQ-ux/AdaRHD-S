@@ -1,4 +1,4 @@
-[simple_5000_50_20_upper_obj_time_all.pdf](https://github.com/user-attachments/files/27569145/simple_5000_50_20_upper_obj_time_all.pdf)# 🚀 AdaRHD-S: 黎曼流形单循环自适应优化引擎
+🚀 AdaRHD-S: 黎曼流形单循环自适应优化引擎
 
 本项目开源了针对 **黎曼双层优化 (Riemannian Bilevel Optimization, RBO)** 的新型自适应单循环算法 —— **AdaRHD-S**。
 
