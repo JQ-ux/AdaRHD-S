@@ -10,5 +10,12 @@
     "core": "AdaRHD-S (Single-Loop Adaptive)",
     "complexity": "O(1/ε) Iteration Complexity",
     "manifolds": ["Stiefel (St)", "Symmetric Positive Definite (SPD)"]
+  },
+  "implementation": {
+    "language": "Python",
+    "framework": "PyTorch",
+    "main_entry": "main.py",
+    "core_lib": "optimizers/adarhd_s.py",
+    "github_repo": "https://github.com/JQ-ux/AdaRHD-S"
   }
 }
